@@ -1,0 +1,7 @@
+c:\users\gongqi\documents\visual studio 2013\Projects\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.exe.config
+c:\users\gongqi\documents\visual studio 2013\Projects\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.exe
+c:\users\gongqi\documents\visual studio 2013\Projects\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.pdb
+c:\users\gongqi\documents\visual studio 2013\Projects\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.Client.dll
+c:\users\gongqi\documents\visual studio 2013\Projects\RabbitMQ\RabbitMQ\obj\Debug\ProjectSend.csprojResolveAssemblyReference.cache
+c:\users\gongqi\documents\visual studio 2013\Projects\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.exe
+c:\users\gongqi\documents\visual studio 2013\Projects\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.pdb

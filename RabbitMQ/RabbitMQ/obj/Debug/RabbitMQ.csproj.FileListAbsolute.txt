@@ -1,0 +1,1 @@
+c:\users\gongqi\documents\visual studio 2013\Projects\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.exe.config

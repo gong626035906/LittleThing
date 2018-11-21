@@ -1,0 +1,6 @@
+c:\Users\gongqi\documents\visual studio 2013\Projects\RabbitMQ\ProjectReceive\bin\Debug\ProjectReceive.exe.config
+c:\Users\gongqi\documents\visual studio 2013\Projects\RabbitMQ\ProjectReceive\bin\Debug\ProjectReceive.exe
+c:\Users\gongqi\documents\visual studio 2013\Projects\RabbitMQ\ProjectReceive\bin\Debug\ProjectReceive.pdb
+c:\Users\gongqi\documents\visual studio 2013\Projects\RabbitMQ\ProjectReceive\bin\Debug\RabbitMQ.Client.dll
+c:\Users\gongqi\documents\visual studio 2013\Projects\RabbitMQ\ProjectReceive\obj\Debug\ProjectReceive.exe
+c:\Users\gongqi\documents\visual studio 2013\Projects\RabbitMQ\ProjectReceive\obj\Debug\ProjectReceive.pdb
